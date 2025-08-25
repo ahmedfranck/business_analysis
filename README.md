@@ -59,7 +59,6 @@ By following the labs, you will produce:
 
 ## 📊 Project Workflow
 
-mermaid
 flowchart TD
     A[Lab 1: Business Requirements Document] --> B[Lab 2: Requirements Traceability Matrix]
     B --> C[Lab 3: Stakeholder Analysis]
