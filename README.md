@@ -80,5 +80,3 @@ This diagram represents the **step-by-step journey** from requirements gathering
 This repository is meant as a **learning and practice resource**. Feel free to fork, adapt, and share your solutions.
 
 ---
-
-👉 Do you want me to also create a **badges section** (like “Built with Excel / Lucidchart / Cognos”) at the top of the README to make it visually engaging and professional, like open-source projects usually do?
