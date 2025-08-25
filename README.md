@@ -59,18 +59,8 @@ By following the labs, you will produce:
 
 ## 📊 Project Workflow
 
-flowchart TD
-    A[Lab 1: Business Requirements Document] --> B[Lab 2: Requirements Traceability Matrix]
-    B --> C[Lab 3: Stakeholder Analysis]
-    C --> D[Lab 4: Scope & WBS]
-    D --> E[Lab 5: As-Is Process Models]
-    E --> F[Lab 6: To-Be Process Models]
-    F --> G[Lab 7: Data Cleaning & Preparation]
-    G --> H[Lab 8: Dashboard & Data Visualization]
-    H --> I[Lab 9: Risk Register & Assessment]
-    I --> J[Lab 10: Risk Mitigation Plan]
-    J --> K[Final Deliverables: BRD, RTM, Models, Dashboard, Risk Plan, Presentation]
 
+![Mermaid Chart - Create complex, visual diagrams with text  A smarter way of creating diagrams -2025-08-25-134811](https://github.com/user-attachments/assets/2b5ef64f-cdbd-4f8e-a1d3-679a2107d597)
 
 This diagram represents the **step-by-step journey** from requirements gathering to final presentation.
 
