@@ -1,0 +1,214 @@
+ResourceID,Department,ResourceType,UsageHours,Date,Availability
+R5487,Cardiology,Nurse,2,2024-07-28,Unavailable
+R8097,Orthopedics,Doctor,9,2024-09-10,Unavailable
+R2557,General Medicine,Room,5,2024-12-17,Under Maintenance
+R9024,Neurology,Doctor,9,2024-07-09,Unavailable
+R9181,,Room,0,,Available
+R2629,Oncology,Doctor,4,2024-03-06,Unavailable
+R1317,Cardiology,Nurse,0,2024-04-01,Available
+R9640,Neurology,Room,1,2024-10-16,Available
+R1787,Oncology,Doctor,8,2024-09-23,Available
+R9426,Cardiology,Technician,5,2024-04-13,Unavailable
+R1606,General Medicine,Nurse,8,2024-06-17,Available
+R3242,Pediatric,Doctor,0,2024-08-15,Available
+R6893,Neurology,Doctor,3,2024-05-04,Available
+R3237,Orthopedics,Nurse,4,2024-02-22,Available
+R3237,Orthopedics,Nurse,4,2024-02-22,Available
+R5274,General Medicine,Doctor,7,2024-01-20,Unavailable
+R1039,Neurology,Technician,5,2024-10-24,Available
+R5597,Neurology,Nurse,4,2024-11-19,Unavailable
+R2939,Pediatric,Room,0,2024-08-17,Available
+R8840,Neurology,Doctor,8,2024-07-03,Unavailable
+R5074,Oncology,Room,4,2024-12-26,In Use
+R3855,Orthopedics,,0,,Unavailable
+R8405,Neurology,Technician,5,2024-12-09,Available
+R5984,Orthopedics,Equipment,3,2024-12-18,In Use
+R6968,General Medicine,Doctor,1,2024-12-15,Unavailable
+R7116,Cardiology,Technician,8,2024-04-10,Available
+R4399,General Medicine,Room,7,2024-09-23,Under Maintenance
+R6261,Neurology,Equipment,5,2024-07-13,Under Maintenance
+R9923,Cardiology,Technician,8,2024-01-31,Available
+R9923,Cardiology,Technician,8,2024-01-31,Available
+R6097,Neurology,Nurse,9,2024-08-16,Available
+R1624,Oncology,Room,2,2024-11-26,In Use
+R6385,Oncology,Doctor,0,2024-12-16,Unavailable
+R2625,Neurology,Equipment,5,2024-04-02,Under Maintenance
+R3097,Orthopedics,Room,6,2024-06-03,Under Maintenance
+R5532,Pediatric,Room,7,2024-04-01,In Use
+R8648,Orthopedics,Technician,0,2024-12-20,Unavailable
+R6744,General Medicine,Equipment,9,2024-12-21,Under Maintenance
+R6436,General Medicine,Technician,4,2024-05-04,Available
+R4593,Orthopedics,Doctor,8,2024-04-05,Available
+R7325,Pediatric,Room,0,2024-03-21,In Use
+R7808,Neurology,Nurse,2,2024-11-09,Available
+R5805,General Medicine,Equipment,4,2024-03-27,In Use
+R3667,Oncology,Doctor,2,2024-08-02,Available
+R3667,Oncology,Doctor,2,2024-08-02,Available
+R2833,General Medicine,Equipment,3,2024-08-03,In Use
+,Oncology,,1,,Available
+R5799,General Medicine,Nurse,9,2024-01-22,Unavailable
+R2825,Pediatric,Technician,8,2024-02-25,Available
+R5252,Pediatric,Nurse,7,2024-06-23,Unavailable
+R7354,Pediatric,Doctor,0,2024-02-28,Available
+R2717,Cardiology,Technician,3,2024-10-25,Available
+R3782,Pediatric,Doctor,7,2024-02-02,Unavailable
+R1276,Oncology,Technician,9,2024-12-04,Unavailable
+R2832,Pediatric,Technician,9,2024-07-09,Available
+R7226,Neurology,Technician,3,2024-03-19,Unavailable
+R3607,Neurology,Equipment,9,2024-03-11,Available
+R9177,General Medicine,Technician,0,2024-12-07,Available
+R1427,General Medicine,Nurse,7,2024-09-21,Available
+R1427,General Medicine,Nurse,7,2024-09-21,Available
+R1381,Pediatric,Equipment,4,2024-09-16,Available
+R6613,Neurology,Nurse,2,2024-10-20,Unavailable
+R7395,Oncology,Technician,1,2024-08-13,Unavailable
+R8110,General Medicine,Equipment,1,2024-11-27,In Use
+R5282,Cardiology,Room,5,2024-01-07,Available
+R6766,Cardiology,Room,0,2024-02-28,Available
+R5926,Cardiology,Room,0,2024-09-10,Under Maintenance
+R5415,Cardiology,Equipment,4,2024-12-22,Under Maintenance
+R3528,Neurology,Nurse,2,2024-01-16,Available
+R9442,Orthopedics,Room,0,2024-12-19,Available
+R9566,General Medicine,Technician,9,2024-11-21,Unavailable
+R8012,Neurology,Equipment,8,2024-04-05,In Use
+R4883,Cardiology,Technician,5,2024-07-12,Available
+R2401,Oncology,Equipment,5,2024-04-28,Under Maintenance
+R2401,Oncology,Equipment,5,2024-04-28,Under Maintenance
+R7211,Cardiology,Nurse,7,2024-06-14,Unavailable
+R9738,Oncology,Technician,8,2024-04-25,Unavailable
+R1429,Neurology,Room,3,2024-05-04,In Use
+R7486,Cardiology,Doctor,0,2024-07-20,Unavailable
+R2221,Pediatric,Equipment,8,2024-04-10,Under Maintenance
+R8679,,Doctor,2,,Available
+R7880,Cardiology,Technician,7,2024-12-25,Available
+R9173,Orthopedics,Doctor,6,2024-06-21,Available
+R8674,Orthopedics,Room,2,2024-07-31,Available
+R3194,Neurology,Equipment,2,2024-10-29,In Use
+R8628,Cardiology,Equipment,6,2024-11-18,Available
+R8103,Pediatric,Room,7,2024-09-06,In Use
+R4911,Oncology,Equipment,0,2024-05-28,Under Maintenance
+R8724,Orthopedics,Nurse,7,2024-01-16,Unavailable
+R8724,Orthopedics,Nurse,7,2024-01-16,Unavailable
+R3152,General Medicine,Doctor,1,2024-02-29,Unavailable
+R8641,Cardiology,Room,9,2024-08-19,In Use
+R4369,General Medicine,Doctor,5,2024-08-30,Available
+R2354,Orthopedics,Doctor,7,2024-04-04,Available
+R9147,General Medicine,Room,2,2024-04-04,In Use
+R8105,Oncology,Equipment,2,2024-06-25,Under Maintenance
+R9167,Orthopedics,Technician,2,2024-04-08,Available
+R3746,General Medicine,Nurse,9,2024-12-28,Unavailable
+R9081,General Medicine,Technician,4,2024-06-11,Unavailable
+R1794,Oncology,Room,6,2024-06-06,Available
+R7782,Oncology,Doctor,1,2024-11-04,Unavailable
+R7818,Oncology,Room,2,2024-03-19,Under Maintenance
+R7818,Oncology,Room,2,2024-03-19,Under Maintenance
+R6399,Cardiology,Technician,7,2024-04-07,Available
+R4520,Oncology,Technician,1,2024-05-26,Unavailable
+R7243,Neurology,Technician,4,2024-06-14,Unavailable
+R5582,Neurology,Doctor,7,2024-05-16,Available
+R4033,Orthopedics,Technician,9,2024-03-16,Unavailable
+R2577,Orthopedics,Room,6,2024-08-25,In Use
+R4743,General Medicine,Room,9,2024-01-15,Under Maintenance
+R3325,Orthopedics,Equipment,3,2024-11-22,Under Maintenance
+R1133,Pediatric,Technician,8,2024-04-05,Available
+R2734,Pediatric,Doctor,2,2024-12-20,Available
+R4411,Neurology,Technician,5,2024-11-12,Unavailable
+R4657,Pediatric,Doctor,3,2024-03-16,Available
+R5595,General Medicine,Equipment,7,2024-04-22,Under Maintenance
+R3368,Pediatric,Room,6,2024-07-07,In Use
+R3590,Pediatric,Technician,6,2024-06-01,Available
+R3590,Pediatric,Technician,6,2024-06-01,Available
+R1636,Orthopedics,Room,5,2024-06-29,Under Maintenance
+R1419,Neurology,Technician,4,2024-01-12,Available
+R7729,General Medicine,Nurse,2,2024-09-03,Unavailable
+R7577,General Medicine,Technician,1,2024-07-13,Available
+R3762,Pediatric,Technician,5,2024-07-18,Available
+R6690,Pediatric,Equipment,5,2024-07-31,In Use
+R3388,General Medicine,Nurse,4,2024-03-08,Available
+R4334,General Medicine,Room,6,2024-06-06,In Use
+R7162,Neurology,Room,2,2024-03-28,Available
+R4580,Oncology,Nurse,7,2024-07-09,Unavailable
+R3442,Oncology,Technician,3,2024-09-10,Unavailable
+R1998,Cardiology,Technician,9,2024-08-11,Unavailable
+R3393,Oncology,Doctor,1,2024-05-11,Unavailable
+R2004,Neurology,Equipment,4,2024-10-17,In Use
+,Cardiology,,2,,In Use
+R3795,Pediatric,Doctor,6,2024-02-02,Available
+R5550,Cardiology,Equipment,3,2024-12-01,Available
+R1369,Orthopedics,Nurse,4,2024-10-03,Available
+R9210,Neurology,Doctor,1,2024-08-31,Available
+R7907,Orthopedics,Equipment,2,2024-09-02,In Use
+R7907,Orthopedics,Equipment,2,2024-09-02,In Use
+R5061,General Medicine,Doctor,4,2024-07-19,Unavailable
+R3257,Neurology,Technician,6,2024-09-23,Available
+R6179,General Medicine,Technician,4,2024-07-29,Available
+R2158,Oncology,Nurse,3,2024-03-16,Available
+R4245,Cardiology,Room,8,2024-12-08,In Use
+R3900,General Medicine,Technician,8,2024-06-22,Available
+R8250,Neurology,Technician,0,2024-05-31,Unavailable
+R7871,Oncology,Doctor,7,2024-05-31,Unavailable
+R8375,Neurology,Room,0,2024-01-27,Available
+R6418,Orthopedics,Room,0,2024-05-27,Under Maintenance
+R6093,General Medicine,Nurse,2,2024-01-14,Available
+R3410,Pediatric,Doctor,8,2024-10-09,Available
+R2697,Oncology,Nurse,3,2024-04-24,Unavailable
+R5378,Cardiology,Equipment,0,2024-08-15,Available
+R3296,Oncology,Technician,5,2024-03-22,Available
+R1892,Oncology,Room,3,2024-11-17,Available
+R8443,Orthopedics,Equipment,2,2024-02-13,Available
+R8443,Orthopedics,Equipment,2,2024-02-13,Available
+R6719,Oncology,Room,7,2024-06-05,Available
+R1525,Pediatric,Room,4,2024-11-20,In Use
+R2602,Pediatric,Technician,5,2024-10-29,Available
+R2439,General Medicine,Room,0,2024-11-23,Under Maintenance
+R4120,Neurology,Doctor,3,2024-02-26,Available
+R6450,Neurology,Equipment,4,2024-07-31,Under Maintenance
+R3212,Pediatric,Doctor,4,2024-09-23,Unavailable
+R3470,Pediatric,Nurse,5,2024-02-03,Unavailable
+R4198,Orthopedics,Equipment,5,2024-04-05,Under Maintenance
+R6653,General Medicine,Technician,0,2024-02-19,Available
+R9325,General Medicine,Technician,0,2024-09-30,Available
+R5653,Pediatric,Doctor,6,2024-07-08,Available
+R9221,Oncology,Technician,1,2024-11-23,Available
+R4576,General Medicine,Equipment,9,2024-01-10,Available
+R4576,General Medicine,Equipment,9,2024-01-10,Available
+R5250,Oncology,Equipment,1,2024-07-01,In Use
+R9942,Oncology,Room,2,2024-02-15,Under Maintenance
+R9637,Oncology,Technician,9,2024-04-23,Unavailable
+R6571,Neurology,Nurse,2,2024-05-22,Available
+R8275,General Medicine,Nurse,5,2024-07-01,Unavailable
+R3024,General Medicine,Nurse,5,2024-07-28,Available
+R9407,Orthopedics,Nurse,4,2024-11-17,Available
+R4375,Pediatric,Technician,4,2024-03-17,Available
+R4311,Pediatric,Nurse,1,2024-03-03,Available
+R6892,Pediatric,Doctor,6,2024-05-09,Unavailable
+R5035,General Medicine,Equipment,0,2024-05-25,Under Maintenance
+R8869,Oncology,Nurse,6,2024-11-02,Available
+R1032,General Medicine,Nurse,9,2024-06-03,Unavailable
+R7483,Pediatric,Doctor,0,2024-02-21,Unavailable
+R7873,Pediatric,Nurse,5,2024-10-30,Unavailable
+R7873,Pediatric,Nurse,5,2024-10-30,Unavailable
+R5286,Orthopedics,Doctor,9,2024-03-07,Unavailable
+R6508,Orthopedics,Doctor,8,2024-02-27,Available
+R7949,Neurology,Nurse,2,2024-08-03,Unavailable
+R9477,Oncology,Equipment,6,2024-07-10,Under Maintenance
+R4395,Oncology,Doctor,4,2024-06-29,Unavailable
+R3146,Orthopedics,Doctor,8,2024-04-06,Unavailable
+R2220,Pediatric,Technician,6,2024-04-08,Available
+R7334,Oncology,Room,3,2024-01-03,In Use
+R1597,Neurology,Equipment,9,2024-10-08,Available
+R3553,Pediatric,Room,9,2024-07-07,Available
+R3833,Pediatric,Technician,3,2024-09-08,Unavailable
+R7417,Orthopedics,Technician,1,2024-01-28,Unavailable
+R7417,Orthopedics,Technician,1,2024-01-28,Unavailable
+R3526,General Medicine,Nurse,5,2024-05-15,Available
+R5504,Pediatric,Nurse,5,2024-06-12,Unavailable
+R8032,Pediatric,Technician,6,2024-03-13,Available
+R2554,Pediatric,Nurse,2,2024-05-23,Unavailable
+R9553,Oncology,Doctor,2,2024-01-26,Unavailable
+,Oncology,,9,,Unavailable
+R1385,Pediatric,Doctor,1,2024-03-26,Unavailable
+R8161,General Medicine,Equipment,1,2024-12-19,Available
+R5806,Pediatric,Doctor,8,2024-03-17,Unavailable
+R1560,Pediatric,Technician,6,2024-05-20,Unavailable
+R3933,Neurology,Doctor,8,2024-10-03,Available
